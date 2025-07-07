@@ -85,3 +85,15 @@ The repository includes a sample PDF file:
 
 - `Resturaunt Q&A.pdf` – A sample document containing restaurant-related questions and answers. You can upload this file to a new collection and start chatting with it immediately to test the system.
 
+## 📸 Example Screenshots
+
+### 1. Select or Create a Collection
+![Collection Select](images/collection-select.jpg)
+
+### 2. Upload a PDF and Ingest
+![Upload Ingestion](images/upload-ingestion.jpg)
+
+### 3. Chat With Your Documents
+![Chat History](images/chat-history.jpg)
+
+
