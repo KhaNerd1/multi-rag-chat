@@ -25,7 +25,7 @@ A fully local Retrieval-Augmented Generation (RAG) chatbot built with Streamlit,
 | Embeddings | Ollama (`nomic-embed-text`)    |
 | Vector DB  | FAISS                          |
 | Backend    | LangChain                      |
-| Parsing    | PyPDF2                         |
+| Parsing    | PyPDF                          |
 
 ---
 
@@ -79,24 +79,9 @@ streamlit run app.py
 
 ---
 
-## Notes
-
-- Vector stores are saved in the `collections/` directory
-- Chat memory and file indexes are not persisted across restarts unless explicitly saved
-- No file or data leaves your machine; the entire app is local
-
----
-
 ## Sample File Included
 
 The repository includes a sample PDF file:
 
-- `restaurant_qna.pdf` – A sample document containing restaurant-related questions and answers. You can upload this file to a new collection and start chatting with it immediately to test the system.
+- `Resturaunt Q&A.pdf` – A sample document containing restaurant-related questions and answers. You can upload this file to a new collection and start chatting with it immediately to test the system.
 
----
-
----
-
-## License
-
-This project is licensed under the MIT License.
