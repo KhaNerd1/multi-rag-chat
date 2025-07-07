@@ -25,7 +25,7 @@ A fully local Retrieval-Augmented Generation (RAG) chatbot built with Streamlit,
 | Embeddings | Ollama (`nomic-embed-text`)    |
 | Vector DB  | FAISS                          |
 | Backend    | LangChain                      |
-| Parsing    | PyPDF2                         |
+| Parsing    | PyPDF                          |
 
 ---
 
