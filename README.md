@@ -78,15 +78,3 @@ streamlit run app.py
 ```
 
 ---
-
-## Notes
-
-- Vector stores are saved in the `collections/` directory
-- Chat memory and file indexes are not persisted across restarts unless explicitly saved
-- No file or data leaves your machine; the entire app is local
-
----
-
-## License
-
-This project is licensed under the MIT License.
